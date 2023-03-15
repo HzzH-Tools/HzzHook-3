@@ -1,0 +1,9 @@
+[0] Credits
+[1] Webhook-Spammer
+[2] Webhook-Deleter
+[3] Webhook-Tester
+[4] Server Copy
+[5] Light Switcher
+[6] Group Spammer | Request of spectators
+[-] Clear
+[7] Credits
